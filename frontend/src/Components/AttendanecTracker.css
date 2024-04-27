@@ -1,0 +1,16 @@
+/* AttendanceTracker.css */
+
+.attendance-tracker {
+    padding: 20px;
+  }
+  
+  .attendance-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .attendance-list li {
+    margin-bottom: 5px;
+  }
+  

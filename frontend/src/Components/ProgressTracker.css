@@ -1,0 +1,16 @@
+/* ProgressTracker.css */
+
+.progress-tracker {
+    padding: 20px;
+  }
+  
+  .progress-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .progress-list li {
+    margin-bottom: 5px;
+  }
+  

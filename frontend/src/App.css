@@ -1,0 +1,91 @@
+
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* LandingPage.css */
+  .landing-page {
+    padding: 20px;
+  }
+  
+  .hero {
+    background-color: #f0f0f0;
+    padding: 50px;
+    margin-top: 20px;
+  }
+  
+  /* AboutUsPage.css */
+  .about-us-page {
+    padding: 20px;
+  }
+  
+  /* ProgramsPage.css */
+  .programs-page {
+    padding: 20px;
+  }
+  
+  .program {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* RealTimeMonitoring.css */
+  .real-time-monitoring {
+    padding: 20px;
+  }
+  
+  /* AchievementsSection.css */
+  .achievements-section {
+    padding: 20px;
+  }
+  
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .testimonials {
+    margin-top: 20px;
+  }
+  
+  .impact-map {
+    margin-top: 20px;
+  }
+  
+  /* ContactUsSection.css */
+  .contact-us-section {
+    padding: 20px;
+  }
+  
+  .data-collection-form {
+    margin-top: 20px;
+  }
+  
+  .data-collection-form form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .data-collection-form input,
+  .data-collection-form textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  .data-collection-form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .data-collection-form button:hover {
+    background-color: #0056b3;
+  }
+  
